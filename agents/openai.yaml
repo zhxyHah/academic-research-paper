@@ -1,0 +1,4 @@
+interface:
+  display_name: "Academic Research Paper"
+  short_description: "Structure and improve academic research papers"
+  default_prompt: "Use $academic-research-paper to help me plan, draft, revise, or check an academic research paper."
